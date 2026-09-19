@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+streamlit
+pydantic[email]
+pyjwt
+passlib
+python-dotenv
+requests
+numpy
+google-genai
+pytest
